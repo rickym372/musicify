@@ -1,6 +1,6 @@
 
-const clientID = '1dcb8eb3c86441729887db80d370669a';
-const redirectUri = 'http://musicify.surge.sh';
+const clientID = 'use own spotify api key';
+const redirectUri = 'http://localhost:3000';
 let userID = ''
 let accessToken;
 
